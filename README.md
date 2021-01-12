@@ -23,6 +23,6 @@ https://www.youtube.com/channel/UCweCc7bSMX5J4jEH7HFImng
 # Example
 
 ```sh
-$ script.sh https://www.youtube.com/c/GMHikaru
+$ ./script.sh https://www.youtube.com/c/GMHikaru
 UCweCc7bSMX5J4jEH7HFImng
 ```
