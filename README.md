@@ -9,6 +9,11 @@ https://www.youtube.com/c/GMHikaru
 https://www.youtube.com/channel/UCweCc7bSMX5J4jEH7HFImng
 ```
 
+# Dependencies
+
+- curl: https://curl.se/dlwiz/?type=bin
+- xmllint: http://xmlsoft.org/xmllint.html
+
 # Usage
 
 1. move `script.sh` to a chosen location
